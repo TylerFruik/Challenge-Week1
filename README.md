@@ -8,7 +8,7 @@ This resulting respoitory contains the elements of a fully functioning webpage a
 Along with being a visually pleasing website, the three links found in the top right of the page will automatically move the viewer to the sectiopn with a matching title.
 
 ### The following is an image of the final webpage:
-[Image URL](https://github.com/TylerFruik/Challenge-Week1/blob/main/Image%20for%20README.png)
+![Image URL](https://github.com/TylerFruik/Challenge-Week1/blob/main/Image%20for%20README.png)
 
 ## Assignment Information
 
